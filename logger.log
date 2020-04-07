@@ -1,0 +1,212 @@
+INFO:ProTest.TestBaseClassEx5:status code: 201 
+INFO:ProTest.TestBaseClassEx5:headers: {'Content-Length': '46', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 18:18:42 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx5:text: {"id": "16b7c777-447c-46d7-be14-42520301e8c7"} 
+INFO:ProTest.TestBaseClassEx5:json: {'id': '16b7c777-447c-46d7-be14-42520301e8c7'} 
+INFO:ProTest.TestBaseClassEx5:url: http://localhost:8000/books 
+INFO:ProTest.TestBaseClassEx5:method: POST 
+INFO:ProTest.TestBaseClassEx5:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '103', 'Content-Type': 'application/json'} 
+INFO:ProTest.TestBaseClassEx5:body: b'{"author": "Test", "pages": 182, "publisher": "Test", "sub_title": null, "title": "Test", "year": 2008}' 
+INFO:ProTest.TestBaseClassEx5:status code: 201 
+INFO:ProTest.TestBaseClassEx5:headers: {'Content-Length': '46', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 18:53:09 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx5:text: {"id": "8ad8bb47-e9d7-473a-b46d-ebb5220696dc"} 
+INFO:ProTest.TestBaseClassEx5:json: {'id': '8ad8bb47-e9d7-473a-b46d-ebb5220696dc'} 
+INFO:ProTest.TestBaseClassEx5:url: http://localhost:8000/books 
+INFO:ProTest.TestBaseClassEx5:method: POST 
+INFO:ProTest.TestBaseClassEx5:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '103', 'Content-Type': 'application/json'} 
+INFO:ProTest.TestBaseClassEx5:body: b'{"author": "Test", "pages": 182, "publisher": "Test", "sub_title": null, "title": "Test", "year": 2008}' 
+INFO:ProTest.TestBaseClassEx6:status code: 201 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '28', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 18:54:53 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text: {"token": "vWRbDRryDNoOApV"} 
+INFO:ProTest.TestBaseClassEx6:json: {'token': 'vWRbDRryDNoOApV'} 
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/token/test 
+INFO:ProTest.TestBaseClassEx6:method: POST 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '0'} 
+INFO:ProTest.TestBaseClassEx6:body: None 
+INFO:ProTest.TestBaseClassEx6:status code: 201 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '46', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 18:54:53 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text: {"id": "84869211-a255-4e9e-990c-3ff62af5f198"} 
+INFO:ProTest.TestBaseClassEx6:json: {'id': '84869211-a255-4e9e-990c-3ff62af5f198'} 
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/books 
+INFO:ProTest.TestBaseClassEx6:method: POST 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '103', 'Content-Type': 'application/json'} 
+INFO:ProTest.TestBaseClassEx6:body: b'{"author": "Test", "pages": 182, "publisher": "Test", "sub_title": null, "title": "Test", "year": 2008}' 
+INFO:ProTest.TestBaseClassEx6:status code: 200 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '0', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 18:54:53 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text:  
+INFO:ProTest.TestBaseClassEx6:status code: 201 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '28', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:00:17 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text: {"token": "vsVHOkBpJzTbyvs"} 
+INFO:ProTest.TestBaseClassEx6:json: {'token': 'vsVHOkBpJzTbyvs'} 
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/token/test 
+INFO:ProTest.TestBaseClassEx6:method: POST 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '0'} 
+INFO:ProTest.TestBaseClassEx6:body: None 
+INFO:ProTest.TestBaseClassEx6:status code: 201 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '46', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:00:17 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text: {"id": "7b40d2ff-c26c-442d-a2d4-1d068072e285"} 
+INFO:ProTest.TestBaseClassEx6:json: {'id': '7b40d2ff-c26c-442d-a2d4-1d068072e285'} 
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/books 
+INFO:ProTest.TestBaseClassEx6:method: POST 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '103', 'Content-Type': 'application/json'} 
+INFO:ProTest.TestBaseClassEx6:body: b'{"author": "Test", "pages": 182, "publisher": "Test", "sub_title": null, "title": "Test", "year": 2008}' 
+INFO:ProTest.TestBaseClassEx6:status code: 201 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '28', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:00:22 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text: {"token": "EjFxhTZcdPpozQR"} 
+INFO:ProTest.TestBaseClassEx6:json: {'token': 'EjFxhTZcdPpozQR'} 
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/token/test 
+INFO:ProTest.TestBaseClassEx6:method: POST 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '0'} 
+INFO:ProTest.TestBaseClassEx6:body: None 
+INFO:ProTest.TestBaseClassEx6:status code: 201 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '46', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:00:22 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text: {"id": "e24b5288-0b42-4448-9451-41ff1385114e"} 
+INFO:ProTest.TestBaseClassEx6:json: {'id': 'e24b5288-0b42-4448-9451-41ff1385114e'} 
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/books 
+INFO:ProTest.TestBaseClassEx6:method: POST 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '103', 'Content-Type': 'application/json'} 
+INFO:ProTest.TestBaseClassEx6:body: b'{"author": "Test", "pages": 182, "publisher": "Test", "sub_title": null, "title": "Test", "year": 2008}' 
+INFO:ProTest.TestBaseClassEx6:status code: 404 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '0', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:00:24 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text:  
+INFO:ProTest.TestBaseClassEx5:status code: 201 
+INFO:ProTest.TestBaseClassEx5:headers: {'Content-Length': '46', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:00:38 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx5:text: {"id": "372585aa-038e-4ba0-a2b4-5523c7302d64"} 
+INFO:ProTest.TestBaseClassEx5:json: {'id': '372585aa-038e-4ba0-a2b4-5523c7302d64'} 
+INFO:ProTest.TestBaseClassEx5:url: http://localhost:8000/books 
+INFO:ProTest.TestBaseClassEx5:method: POST 
+INFO:ProTest.TestBaseClassEx5:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '103', 'Content-Type': 'application/json'} 
+INFO:ProTest.TestBaseClassEx5:body: b'{"author": "Test", "pages": 182, "publisher": "Test", "sub_title": null, "title": "Test", "year": 2008}' 
+INFO:ProTest.TestBaseClassEx6:status code: 201 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '28', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:02:17 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text: {"token": "goeymFsPGfVkRCN"} 
+INFO:ProTest.TestBaseClassEx6:json: {'token': 'goeymFsPGfVkRCN'} 
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/token/test 
+INFO:ProTest.TestBaseClassEx6:method: POST 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '0'} 
+INFO:ProTest.TestBaseClassEx6:body: None 
+INFO:ProTest.TestBaseClassEx6:status code: 201 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '46', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:02:17 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text: {"id": "78927c75-218d-4865-939d-5fb935736b31"} 
+INFO:ProTest.TestBaseClassEx6:json: {'id': '78927c75-218d-4865-939d-5fb935736b31'} 
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/books 
+INFO:ProTest.TestBaseClassEx6:method: POST 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '103', 'Content-Type': 'application/json'} 
+INFO:ProTest.TestBaseClassEx6:body: b'{"author": "Test", "pages": 182, "publisher": "Test", "sub_title": null, "title": "Test", "year": 2008}' 
+INFO:ProTest.TestBaseClassEx6:status code: 404 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '0', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:02:19 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text:  
+INFO:ProTest.TestBaseClassEx6:status code: 201 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '28', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:03:29 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text: {"token": "GLDNYJXCrBBhGqz"} 
+INFO:ProTest.TestBaseClassEx6:json: {'token': 'GLDNYJXCrBBhGqz'} 
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/token/test 
+INFO:ProTest.TestBaseClassEx6:method: POST 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '0'} 
+INFO:ProTest.TestBaseClassEx6:body: None 
+INFO:ProTest.TestBaseClassEx6:status code: 201 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '46', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:03:29 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text: {"id": "0b176979-379f-4a70-b659-662a8d7d34f5"} 
+INFO:ProTest.TestBaseClassEx6:json: {'id': '0b176979-379f-4a70-b659-662a8d7d34f5'} 
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/books 
+INFO:ProTest.TestBaseClassEx6:method: POST 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '103', 'Content-Type': 'application/json'} 
+INFO:ProTest.TestBaseClassEx6:body: b'{"author": "Test", "pages": 182, "publisher": "Test", "sub_title": null, "title": "Test", "year": 2008}' 
+INFO:ProTest.TestBaseClassEx6:status code: 404 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '0', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:03:31 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text:  
+INFO:ProTest.TestBaseClassEx6:status code: 201 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '28', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:03:50 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text: {"token": "ZbauKNxXOMDktKO"} 
+INFO:ProTest.TestBaseClassEx6:json: {'token': 'ZbauKNxXOMDktKO'} 
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/token/test 
+INFO:ProTest.TestBaseClassEx6:method: POST 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '0'} 
+INFO:ProTest.TestBaseClassEx6:body: None 
+INFO:ProTest.TestBaseClassEx6:status code: 201 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '46', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:03:51 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text: {"id": "75c8b28c-11bd-40f0-9afb-2d5310d49fab"} 
+INFO:ProTest.TestBaseClassEx6:json: {'id': '75c8b28c-11bd-40f0-9afb-2d5310d49fab'} 
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/books 
+INFO:ProTest.TestBaseClassEx6:method: POST 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '103', 'Content-Type': 'application/json'} 
+INFO:ProTest.TestBaseClassEx6:body: b'{"author": "Test", "pages": 182, "publisher": "Test", "sub_title": null, "title": "Test", "year": 2008}' 
+INFO:ProTest.TestBaseClassEx6:status code: 404 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '0', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:04:11 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text:  
+INFO:ProTest.TestBaseClassEx6:status code: 201 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '28', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:05:16 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text: {"token": "fAVpGsNxTykFIAK"} 
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/token/test 
+INFO:ProTest.TestBaseClassEx6:method: POST 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '0'} 
+INFO:ProTest.TestBaseClassEx6:body: None 
+INFO:ProTest.TestBaseClassEx6:status code: 201 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '46', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:05:16 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text: {"id": "4ad115eb-5943-4ecd-b9d1-97869c2553fa"} 
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/books 
+INFO:ProTest.TestBaseClassEx6:method: POST 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '103', 'Content-Type': 'application/json'} 
+INFO:ProTest.TestBaseClassEx6:body: b'{"author": "Test", "pages": 182, "publisher": "Test", "sub_title": null, "title": "Test", "year": 2008}' 
+INFO:ProTest.TestBaseClassEx6:status code: 404 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '0', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:05:18 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text:  
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/books/4ad115eb-5943-4ecd-b9d1-97869c2553fa 
+INFO:ProTest.TestBaseClassEx6:method: GET 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'} 
+INFO:ProTest.TestBaseClassEx6:body: None 
+INFO:ProTest.TestBaseClassEx6:status code: 201 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '28', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:07:43 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text: {"token": "OPtUGzyeQtnhmPt"} 
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/token/test 
+INFO:ProTest.TestBaseClassEx6:method: POST 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '0'} 
+INFO:ProTest.TestBaseClassEx6:body: None 
+INFO:ProTest.TestBaseClassEx6:status code: 201 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '46', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:07:43 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text: {"id": "3e4adb77-e601-401f-945e-8d6e97719600"} 
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/books 
+INFO:ProTest.TestBaseClassEx6:method: POST 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '103', 'Content-Type': 'application/json'} 
+INFO:ProTest.TestBaseClassEx6:body: b'{"author": "Test", "pages": 182, "publisher": "Test", "sub_title": null, "title": "Test", "year": 2008}' 
+INFO:ProTest.TestBaseClassEx6:status code: 200 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '0', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:07:43 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text:  
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/books/3e4adb77-e601-401f-945e-8d6e97719600 
+INFO:ProTest.TestBaseClassEx6:method: DELETE 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'user': 'test', 'token': 'OPtUGzyeQtnhmPt', 'Content-Length': '0'} 
+INFO:ProTest.TestBaseClassEx6:body: None 
+INFO:ProTest.TestBaseClassEx6:status code: 404 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '0', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:07:43 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text:  
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/books/3e4adb77-e601-401f-945e-8d6e97719600 
+INFO:ProTest.TestBaseClassEx6:method: GET 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'} 
+INFO:ProTest.TestBaseClassEx6:body: None 
+INFO:ProTest.TestBaseClassEx6:status code: 201 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '28', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:08:07 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text: {"token": "XCIAkwoGCBFoUAN"} 
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/token/test 
+INFO:ProTest.TestBaseClassEx6:method: POST 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '0'} 
+INFO:ProTest.TestBaseClassEx6:body: None 
+INFO:ProTest.TestBaseClassEx6:status code: 201 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '46', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:08:07 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text: {"id": "e007737f-6fed-463d-976e-7bea796ebacb"} 
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/books 
+INFO:ProTest.TestBaseClassEx6:method: POST 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '103', 'Content-Type': 'application/json'} 
+INFO:ProTest.TestBaseClassEx6:body: b'{"author": "Test", "pages": 182, "publisher": "Test", "sub_title": null, "title": "Test", "year": 2008}' 
+INFO:ProTest.TestBaseClassEx6:status code: 200 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '0', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:08:07 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text:  
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/books/e007737f-6fed-463d-976e-7bea796ebacb 
+INFO:ProTest.TestBaseClassEx6:method: DELETE 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'user': 'test', 'token': 'XCIAkwoGCBFoUAN', 'Content-Length': '0'} 
+INFO:ProTest.TestBaseClassEx6:body: None 
+INFO:ProTest.TestBaseClassEx6:status code: 404 
+INFO:ProTest.TestBaseClassEx6:headers: {'Content-Length': '0', 'Content-Type': 'application/json', 'Date': 'Tue, 07 Apr 2020 19:08:07 GMT', 'Server': 'waitress'} 
+INFO:ProTest.TestBaseClassEx6:text:  
+INFO:ProTest.TestBaseClassEx6:url: http://localhost:8000/books/e007737f-6fed-463d-976e-7bea796ebacb 
+INFO:ProTest.TestBaseClassEx6:method: GET 
+INFO:ProTest.TestBaseClassEx6:request headers: {'User-Agent': 'python-requests/2.23.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'} 
+INFO:ProTest.TestBaseClassEx6:body: None 
